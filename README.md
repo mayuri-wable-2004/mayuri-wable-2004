@@ -1,16 +1,29 @@
-## Hi there 👋
+**👋 Hey, I'm Mayuri Wable**
+---
 
-<!--
-**mayuri-wable-2004/mayuri-wable-2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About Me:**
+---
+Aspiring Java Developer passionate about learning and building projects.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Java, OOP,SQL and Frontend Technology.
+- 🌱 I’m currently learning: React, GitHub
+- 💡Interested in Java Development & Software Engineering 
+- 📚 Love improving skills through practice and building projects 
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Tools  
+- **Java Technologies:** Java(OOP, Collections, Exceptions), JDBC, Servlets, JSP, MVC  
+- **Frontend:** HTML, CSS, JavaScript React
+- **Database** SQL, MYSQL
+- **Languages** C, C++, Java
+- **Tools:** Git, GitHub, VS Code
+
+---
+### 📫 How to reach me  
+- ✉️ Email: wablemayuri40@gmail.com 
+- 🔗 LinkedIn: https://www.linkedin.com/in/mayuri-wable-ab913a319/
+
+
+  
+
+---
