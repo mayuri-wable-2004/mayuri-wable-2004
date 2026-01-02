@@ -11,7 +11,7 @@ Aspiring Java Developer passionate about learning and building projects.
 - 📚 Love improving skills through practice and building projects 
 ---
 
-### 🛠️ Technologies & Tools  
+### 💻 Technologies & Tools  
 - **Java Technologies:** Java(OOP, Collections, Exceptions), JDBC, Servlets, JSP, MVC  
 - **Frontend:** HTML, CSS, JavaScript React
 - **Database** SQL, MYSQL
@@ -19,7 +19,7 @@ Aspiring Java Developer passionate about learning and building projects.
 - **Tools:** Git, GitHub, VS Code
 
 ---
-### 📫Reach me at:  
+### 📫 Reach me at:  
 - ✉️ Email: wablemayuri40@gmail.com 
 - 🔗 LinkedIn: https://www.linkedin.com/in/mayuri-wable-ab913a319/
 
