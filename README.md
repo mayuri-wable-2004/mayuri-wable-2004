@@ -12,11 +12,12 @@ Aspiring Java Developer passionate about learning and building projects.
 ---
 
 ### 💻 Technologies & Tools  
-- **Java Technologies:** Java(OOP, Collections, Exceptions), JDBC, Servlets, JSP, MVC  
-- **Frontend:** HTML, CSS, JavaScript React
+- **Java Technologies:** Java (OOP, Collections, Exceptions), JDBC, Servlets, JSP, MVC, Spring Boot, Spring Data JPA, Hibernate
+- **API Development:** REST APIs, CRUD Operations, JSON
+- **Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap
 - **Database** SQL, MYSQL
-- **Languages** C, C++, Java
-- **Tools:** Git, GitHub, VS Code
+- **Languages** Java, SQL, JavaScript, C, C++
+- **Tools:** Git, GitHub, Postman, Maven, VS Code
 
 ---
 ### 📫 Reach me at:  
