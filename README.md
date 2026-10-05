@@ -5,9 +5,9 @@
 ---
 Aspiring Java Developer passionate about learning and building projects.
 
-- 🔭 I’m currently working on Java, OOP,SQL and Frontend Technology.
-- 🌱 I’m currently learning:  React, Spring Boot
-- 💡Interested in Java Development & Software Engineering
+- 🔭 I’m currently working on Java, OOP,SQL,Problem solving and Frontend Technology.
+- 🌱 I’m currently learning:  Advance Spring Boot Concepts, AI and building full-stack projects
+- 💡Interested in Java Development & Software Engineering  
 - 📚 Love improving skills through practice and building projects 
 ---
 
